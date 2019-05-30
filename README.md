@@ -20,7 +20,7 @@ For NUS-ISS website to successful, our team targeted to create a chat bot. It ca
 | ZHAO YAZHI | A0195305E | Business idea generation, Data crawling, overall testing, project report | e0384936@u.nus.edu |
 
 # SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![Watch the video](https://user-images.githubusercontent.com/48171290/54084381-cad40e00-436a-11e9-8c73-83abc096a3f2.PNG)](https://youtu.be/QOxnEkNSttI)
+[![Watch the video](https://user-images.githubusercontent.com/14072674/58648479-5e025b80-833c-11e9-8c8b-c6fda47dcc5a.png)](https://youtu.be/QOxnEkNSttI)
 
 
 # SECTION 5 : USER GUIDE
