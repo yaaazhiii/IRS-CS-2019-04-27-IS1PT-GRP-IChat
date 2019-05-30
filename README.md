@@ -16,11 +16,11 @@ For NUS-ISS website to successful, our team targeted to create a chat bot. It ca
 
 | Official Full Name | Student ID (MTech Applicable)| Work Items (Who Did What) | Email (Optional) |
 | :---: | :---: | :---: | :---: |
-| LU JIAHAO | A0091835Y | Business idea generation, UI design, DialogFlow Setup, project report integration and project video | e0384293@u.nus.edu |
+| LU JIAHAO | A0091835Y | Business idea generation, testing, DialogFlow setup, UI integration, project report, project report integration and project video | e0384293@u.nus.edu |
 | ZHAO YAZHI | A0195305E | Business idea generation, Data crawling, overall testing, project report | e0384936@u.nus.edu |
 
 # SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![Watch the video](https://user-images.githubusercontent.com/48171290/54084381-cad40e00-436a-11e9-8c73-83abc096a3f2.PNG)](https://www.youtube.com/watch?v=vu1eQ-0R4e8&feature=youtu.be)
+[![Watch the video](https://user-images.githubusercontent.com/48171290/54084381-cad40e00-436a-11e9-8c73-83abc096a3f2.PNG)](https://youtu.be/QOxnEkNSttI)
 
 
 # SECTION 5 : USER GUIDE
