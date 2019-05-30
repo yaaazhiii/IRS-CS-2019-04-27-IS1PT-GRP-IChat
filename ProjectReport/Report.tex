@@ -1,0 +1,73 @@
+\documentclass[12pt, a4paper]{report}
+\input{1_header/packages.tex}
+
+\begin{document}
+
+\input{1_header/title.tex} % complete
+
+\restoregeometry
+
+\setcounter{tocdepth}{5}
+\tableofcontents
+% \clearpage
+
+% \listoffigures
+% \listoftables
+% \pagebreak
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Executive Summary / Paper Abstract
+% Sponsor Company Introduction (if applicable)
+% Business Problem Background
+% Project Objectives & Success Measurements
+% Project Solution (To detail domain modelling & system design.)
+% Project Implementation (To detail system development & testing approach.)
+% Project Performance & Validation (To prove project objectives are met.)
+% Project Conclusions: Findings & Recommendation
+
+% List of Abbreviations (if applicable)
+% References (if applicable)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\justify
+
+\chapter*{Executive Summary}
+\input{2_body/summary.tex}
+\clearpage
+
+\chapter{Business Problem Background}
+\input{2_body/background.tex}
+\clearpage
+
+\chapter{Objectives \& Success Measurements}
+\input{2_body/objectives.tex}
+\clearpage
+
+\chapter{Solution} % To detail domain modelling & system design
+\input{2_body/solution.tex}
+\clearpage
+
+\chapter{Implementation} % To detail system development & testing approach.
+\input{2_body/implementation.tex}
+\clearpage
+
+\chapter{Performance \& Validation} % To prove project objectives are met.
+\input{2_body/performance.tex}
+\clearpage
+
+\chapter{Conclusions} % Findings & Recommendation
+\input{2_body/conclusions.tex}
+\clearpage
+
+
+\chapter{References}
+\label{cha:ref}
+\printbibliography[heading=none]
+
+\clearpage
+
+\begin{appendices}
+  \input{3_footer/appendices.tex}
+\end{appendices}
+
+\end{document}
