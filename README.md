@@ -24,19 +24,19 @@ For NUS-ISS website to successful, our team targeted to create a chat bot. It ca
 
 
 # SECTION 5 : USER GUIDE
-[ 1 ] To run the system in any machine with Google Account and Slack Account
-[ 2 ] Download System Code from https://github.com/yaaazhiii/IRS-CS-2019-04-27-IS1PT-GRP-IChat as a zip file
-[ 3 ] Import Agent
+### To run the system in any machine with Google Account and Slack Account
+### Download System Code from https://github.com/yaaazhiii/IRS-CS-2019-04-27-IS1PT-GRP-IChat as a zip file
+### Import Agent
 + Go to Dialogflow Console, and click "Create New Agent"
 + Put Agent name as you wish, then click "Create" button
 + Go to Settings and enable beta features and APIs
 + Import the downloaded Github zip file
-[ 4 ] System Setup
+### System Setup
 + Go to Knowledge and create an agent under Knowledge Bases
 + Upload Knowledge document into Agent has been created 
 + Click "Add Response" and then click "Save"
 + Click "Fulfillment" and enable "Inline Editor", copy "IChat.js" and replace the content, then click "DEPLOY" button
-[ 5 ] UI Setup
+### UI Setup
 + Click "Integreations" to enable "Slack"
 # SECTION 6 : PROJECT REPORT / PAPER
 <Github File Link>  https://github.com/davidygp/IRS-MR-2019-01-19-IS1PT-GRP-MRCard/tree/master/ProjectReport/Report.pdf
