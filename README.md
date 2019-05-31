@@ -24,7 +24,7 @@ For NUS-ISS website to successful, our team targeted to create a chat bot. It ca
 
 
 # SECTION 5 : USER GUIDE
-### To run the system in any machine with Google Account and Slack Account
+### To run the system in any machine with Google account and Slack account
 ### Download System Code from https://github.com/yaaazhiii/IRS-CS-2019-04-27-IS1PT-GRP-IChat as a zip file
 ### Import Agent
 + Go to Dialogflow Console, and click "Create New Agent"
