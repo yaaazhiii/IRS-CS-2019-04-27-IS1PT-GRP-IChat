@@ -39,7 +39,7 @@ For NUS-ISS website to successful, our team targeted to create a chat bot. It ca
 ### UI Setup
 + Click "Integreations" to enable "Slack"
 # SECTION 6 : PROJECT REPORT / PAPER
-<Github File Link>  https://github.com/davidygp/IRS-MR-2019-01-19-IS1PT-GRP-MRCard/tree/master/ProjectReport/Report.pdf
+<Github File Link>  https://github.com/yaaazhiii/IRS-CS-2019-04-27-IS1PT-GRP-IChat/tree/master/ProjectReport/Report.pdf
 
 Recommended Sections for Project Report / Paper:
 
