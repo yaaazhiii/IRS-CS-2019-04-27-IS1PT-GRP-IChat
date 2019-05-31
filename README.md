@@ -3,7 +3,7 @@
 <img width="812" alt="welcome" src="https://user-images.githubusercontent.com/14072674/58648479-5e025b80-833c-11e9-8c8b-c6fda47dcc5a.png">
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-Working in this ever-change world, No one can continue to grow only through past learning experiences. It is relieved that more and more people in Singapore are pursuing postgraduate studies\cite{postgrad}. Most of us decided on our Bachelor’s when we were young. Not all the people know what they want when taking a major. After gaining a lot more experience during working, people have a clearer path and idea what they want.
+Working in this ever-change world, No one can continue to grow only through past learning experiences. It is relieved that more and more people in Singapore are pursuing postgraduate studies. Most of us decided on our Bachelor’s when we were young. Not all the people know what they want when taking a major. After gaining a lot more experience during working, people have a clearer path and idea what they want.
 
 National University of Singapore - Institute of Systems Science (NUS-ISS) upskills people through skills-based, industry-relevant courses so that they stay competitive in the digital age. The courses it provided is more practical and industry-based skills compared with traditional Postgraduate education.
 
