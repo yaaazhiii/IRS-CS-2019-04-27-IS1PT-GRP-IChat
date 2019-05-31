@@ -1,5 +1,5 @@
 # SECTION 1 : PROJECT TITLE
-### IRS-CS-2019-04-27-IS1PT-GRP-iChat
+### IRS-CS-2019-04-27-IS1PT-GRP-IChat
 <img width="812" alt="welcome" src="https://user-images.githubusercontent.com/14072674/58648479-5e025b80-833c-11e9-8c8b-c6fda47dcc5a.png">
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
